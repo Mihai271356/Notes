@@ -1,0 +1,10 @@
+# A full-stack notes app using Django and React, which uses RESTful APIs, SQLite, and Axios for frontend-backend integration.
+
+# Notes
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+cd ../frontend
+npm install
+npm start
+Open `http://localhost:3000`
