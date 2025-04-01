@@ -1,17 +1,17 @@
-# Notes App
+# Notes App 📄
 A full-stack notes app using Django and React, with RESTful APIs, SQLite, and Axios for frontend-backend integration.
 
-## What It Does
+## What It Does 🔍
 - Create and save notes with a title and content.
 - View a list of all your notes.
 - Edit or delete existing notes.
 
-## Tech used
+## Tech used 🛠️
 - Python, Django, SQLite.
 - React, JavaScript, Axios.
 - HTML, CSS.
 
-## How to Set It Up
+## How to Set It Up ⚙️
 ```
 git clone https://github.com/Mihai271356/Notes.git
 cd Notes/backend
