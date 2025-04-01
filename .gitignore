@@ -12,3 +12,4 @@ build/
 # Misc
 *.log
 .vscode/
+env/
